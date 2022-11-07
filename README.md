@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Topologytomato
-- 👀 I’m interested in fanfiction
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning R, python and SQL.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :scenario0804@gmail.com
